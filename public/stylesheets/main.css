@@ -1,0 +1,31 @@
+#main {
+  background: #ff7e5f;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #feb47b, #ff7e5f);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #feb47b, #ff7e5f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  height: 690px;
+  margin: 0px;
+}
+#main h1 {
+  color: #191654;
+}
+#main .container {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.jumbotron {
+  text-align: center;
+}
+.row {
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+#content {
+  background: #70e1f5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffd194, #70e1f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+audio {
+   display:none;
+}
